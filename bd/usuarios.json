@@ -5,4 +5,12 @@
   "correo": "admin@correo.com",
   "contrasena": "abc123",
   "nombre": "administrador"
+},{
+  "_id": {
+    "$oid": "63893e5e47abac6e322fc722"
+  },
+  "correo": "admin2@correo.com",
+  "contrasena": "$2a$10$TcjxC62R086AgSuQ5142Ge0HIA/SWQuwWG/g3aIXmndXPWvJaWcK6",
+  "nombre": "administrador2",
+  "__v": 0
 }]
